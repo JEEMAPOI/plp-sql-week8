@@ -21,5 +21,4 @@
 -- important data and database structures. It allows databases
 -- to be restored on the new server and reduces the risk of data loss.
 
--- QUESTION 3:
--- The Question 3 instructions have not been provided yet.
+
